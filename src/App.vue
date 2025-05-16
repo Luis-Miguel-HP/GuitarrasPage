@@ -89,6 +89,7 @@ onMounted(() =>{
                         type="button"
                         class="btn fs-4 bg-primary text-white py-2 px-5"
                     >Agregar al Carrito</button>
+                    
                 </div>
             </div>
         </div>
